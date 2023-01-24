@@ -1,2 +1,2 @@
 # Backend
-This repository contains projects done while learning backend development concept at Alx Software engineering.
+This repository contains projects done while learning Back-End Dev. The backend, in simple terms, refers to the part of a website or application that runs on a server and is responsible for handling the behind-the-scenes functionality. This includes tasks such as connecting to a database, processing data, and handling user requests. The backend code is not visible to the user and is used to power the features and functionality that the user interacts with on the frontend
